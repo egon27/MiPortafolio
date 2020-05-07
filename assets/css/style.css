@@ -1,0 +1,28 @@
+body {
+    text-align: center; 
+    color: #000f08; 
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+.esteban-section {
+    text-align: center;
+    background-image: url('../img/fotopersonal.jpg');
+    size: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    text-shadow: 0.125em 0.25em 0.125em #707070;
+    padding: 6.25em 3.125em; 
+}
+
+#img_entel{
+    width: 20%;
+}
+
+#img_scotiabank{
+    width: 20%;
+}
